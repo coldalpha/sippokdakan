@@ -11,6 +11,6 @@
 
 ## DESCRIPTION
 <p>
-Sistem Informasi Publik Kelompok Budidaya Perikanan [SIPPOKDAKAN] adalah sistem yang memudahkan masyarakat diwilayah kabupaten batang khususunya. Sistem ini terintegrasi dengan Google Maps Api yang memudahkan untuk mencari lokasi di Dunia Nyata.
+Sistem Informasi Publik Kelompok Budidaya Perikanan [SIPPOKDAKAN] adalah sistem yang digunakan untuk memantau dan mencari kelompok budidaya perikanan yang ada di wilayah kabupaten batang. Sistem ini terintegrasi dengan Google Maps Api yang memudahkan untuk mencari lokasi di Dunia Nyata.
 Sistem ini sudah mendapatkan ijin penelitian dari Dinas dan Otoritas Setempat
 </p>
