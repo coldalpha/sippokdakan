@@ -1,0 +1,9 @@
+###########
+User Super
+email : admin_super@gmail.com
+password : admin_super@gmail.com
+
+###########
+User Biasa
+email : user_biasa@gmail.com
+password : user_biasa@gmail.com
