@@ -4,7 +4,7 @@
 
 ## TOOLS
 
-- Framework : LARAVEL
+- Framework : LARAVEL 8
 - Template : Portofolio Template, Bootstrap 4 ,JQUERY & AJAX
 - Plus : GIS using MAPS APIKEY
 - DEMO : [SIPPOKDAKAN](https://sippokdakan.my.id/)
